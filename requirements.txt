@@ -1,1 +1,14 @@
-ok
+# FastAPI framework
+fastapi[all]
+
+# ASGI server for FastAPI
+uvicorn[standard]
+
+# Markdown parser
+markdown
+
+# Front-matter parser for Markdown
+python-frontmatter
+
+# MySQL database connector
+mysql-connector-python
